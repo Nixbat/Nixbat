@@ -2,8 +2,7 @@
 ### Full Stack Developer 
 ### JavaScript | HTML | CSS | React | Node | Redux | SQL
 
-### Hola soy Nixon Batallas 👋
-### About me:
+## About me:
 
 
 - 🔭 Actualmente estoy trabajando en proyectos de desarrollo web usando JavaScript, HTML, CSS, React, Node, Redux, SQL.
