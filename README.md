@@ -1,7 +1,7 @@
 
 
-### Hi I`m Nixon Batallas 👋
-About me:
+### Hola soy Nixon Batallas 👋
+### About me:
 
 
 - 🔭 Actualmente estoy trabajando en proyectos de desarrollo web usando JavaScript, HTML, CSS, Node, React, Redux, SQL.
