@@ -1,4 +1,4 @@
-##### Tech Skills
+## Tech Skills
 ### Full Stack Developer 
 ### JavaScript | HTML | CSS | React | Node | Redux | SQL
 
