@@ -9,3 +9,5 @@ About me:
 - 👯 Busco colaborar en proyectos que utilicen HTML, CSS, React, Redux o JavaScript, donde pueda aportar mis habilidades y conocimientos.
 - 💬 Pregúntame sobre desarrollo web con HTML, CSS, React, Redux y JavaScript. Estaré encantado de ayudarte con tus preguntas.
 - ⚡ Además de ser un apasionado del desarrollo web, también disfruto leyendo un buen libro en mi tiempo libre.
+
+Email: nixpat08@gmail.com
